@@ -1210,10 +1210,10 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="settings_search_keyword_font_online">Online-Schriftarten</string>
     <string name="settings_search_keyword_font_style">Schriftformat</string>
     <string name="settings_search_keyword_font_wechat">WeChat-Schriftart</string>
-    <string name="share_content_text_first_font">Testen Sie es! \"%1$s\"-Schriftart verleiht Ihrem Telefon ein völlig neues Aussehen.</string>
-    <string name="share_content_text_first_theme">Testen Sie es! \"%1$s\"-Thema verleiht Ihrem Telefon ein völlig neues Aussehen.</string>
-    <string name="share_content_text_first_wallpaper">Testen Sie es! \"%1$s\"-Hintergrund verleiht Ihrem Telefon ein völlig neues Aussehen.</string>
-    <string name="share_content_text_second">Finden Sie Ihren eigenen Stil in %1$s!</string>
+    <string name="share_content_text_first_font">Teste es! \"%1$s\"-Schriftart verleiht deinem Telefon ein völlig neues Aussehen.</string>
+    <string name="share_content_text_first_theme">Teste es! \"%1$s\"-Thema verleiht deinem Telefon ein völlig neues Aussehen.</string>
+    <string name="share_content_text_first_wallpaper">Teste es! \"%1$s\"-Hintergrund verleiht deinem Telefon ein völlig neues Aussehen.</string>
+    <string name="share_content_text_second">Finde deinen eigenen Stil in %1$s!</string>
     <string name="share_content_topic">\#Xiaomi Themen#</string>
     <string name="share_copy_theme_url">Themen-URL kopieren</string>
     <string name="share_copy_url_success">Erfolgreich kopiert</string>

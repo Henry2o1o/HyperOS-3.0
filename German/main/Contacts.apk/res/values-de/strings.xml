@@ -444,7 +444,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="preference_show_yellowpage_tab_description">Gelbe Seiten und deren Dienste werden nicht angezeigt, wenn du diese Funktion ausschaltest</string>
     <string name="preference_show_yellowpage_tab_title">Gelbe Seiten anzeigen</string>
     <string name="preference_simple_mode_title">Fotos und Infos anzeigen</string>
-    <string name="preference_smart_group_company_summary">Nach Firma gruppieren</string>
+    <string name="preference_smart_group_company_summary">Nach Arbeitgeber gruppieren</string>
     <string name="preference_smart_group_frequency_summary">Nach zuletzt verwendet gruppieren</string>
     <string name="preference_smart_group_frequency_title">Zuletzt</string>
     <string name="preference_smart_group_location_summary">Nach Vorwahl gruppieren</string>

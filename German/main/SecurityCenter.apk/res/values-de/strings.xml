@@ -3479,7 +3479,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="optmizingbar_title_system">Systemsicherheit</string>
     <string name="order_bh_net_empty">Hier ist noch nichts</string>
     <string name="order_bh_net_error">Kein Netzwerk</string>
-    <string name="organization">Firma</string>
+    <string name="organization">Arbeitgeber</string>
     <string name="other">Andere Einstellungen</string>
     <string name="other_exception_summary">Sie haben keine Internetverbindung</string>
     <string name="other_exception_title">Auf weitere Fehler prüfen</string>
@@ -5479,7 +5479,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="storage_permission_title">Berechtigungen erforderlich</string>
     <string name="storage_space_release_hint">Benötigen Sie mehr Speicherplatz?</string>
     <string name="storage_system_log">Systemprotokolle</string>
-    <string name="storage_system_log_tip">Systemprotokolle werden bei Bedarf aut. gelöscht</string>
+    <string name="storage_system_log_tip">Systemprotokolle werden bei Bedarf autom. gelöscht</string>
     <string name="storage_system_memory_expansion">Speichererweiterung</string>
     <string name="storage_system_memory_expansion_tip">RAM durch Belegung von Speicherplatz erweitern</string>
     <string name="storage_system_other_tip">Für den normalen Betrieb des Systems erforderliche Daten (Dateigröße kann sich im Laufe der Zeit ändern)</string>
