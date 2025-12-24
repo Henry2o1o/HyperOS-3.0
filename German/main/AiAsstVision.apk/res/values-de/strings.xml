@@ -83,7 +83,6 @@
 %2$d.Select the view you want to use. Dual screen view is only supported on foldable devices."</string>
     <string name="ai_enhanced_voice_trans_summary">Übersetzen Sie Offline-Gespräche von Angesicht zu Angesicht</string>
     <string name="ai_enhanced_voice_trans_title">KI-Übersetzungsgespräch</string>
-    <string name="ai_translate">@string/ai_translate_global</string>
     <string name="ai_translate_cn">KI-Untertitel</string>
     <string name="ai_translate_feedback_cn">Feedback übersetzen</string>
     <string name="ai_translate_feedback_global">Mi AI Translate-Feedback</string>
@@ -94,16 +93,13 @@
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="antonym">Antonyme</string>
-    <string name="app_function">@string/app_function_global</string>
     <string name="app_function_1">Willkommen bei AI-Untertiteln! Mit dieser Funktion können Sie Untertitel für Audio erstellen, in Echtzeit übersetzen und intelligente Zusammenfassungen erstellen. AI Subtitles muss mit dem Internet verbunden sein, um normal zu funktionieren.</string>
     <string name="app_function_cn">Willkommen bei Translate! Mit dieser App können Sie Text und Audio übersetzen, Wörter nachschlagen und vieles mehr. Diese App muss mit dem Internet verbunden sein, um normal zu funktionieren.</string>
     <string name="app_function_global">Willkommen bei Mi AI Translate! Mit dieser App können Sie Text und Audio übersetzen, Wörter nachschlagen und vieles mehr. Diese App muss mit dem Internet verbunden sein, um normal zu funktionieren.</string>
-    <string name="app_name">@string/app_name_global</string>
     <string name="app_name_cn">Übersetzen</string>
     <string name="app_name_global">Mi AI Translate</string>
     <string name="app_widget_aivision_title">Häufig verwendete Funktionen</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="application_name">@string/app_name</string>
     <string name="audio_not_recordable">"Die Software, die Sie zum Abspielen von Audio verwenden, unterstützt keine Aufnahme."</string>
     <string name="audio_not_supported">"Kann nicht aufnehmen"</string>
     <string name="audio_toast_network_is_not_available">"Es konnte keine Verbindung zum Netzwerk hergestellt werden"</string>
@@ -408,7 +404,6 @@ Untertitelinhalte als Notizen speichern"</string>
     <string name="force_update_model_download_show_text_live_subtitle">Unsere Sprachmodelle wurden aktualisiert. Laden Sie die neuesten Offline-Sprachpakete herunter, um fortzufahren.</string>
     <string name="force_update_model_download_show_text_subtitle_transcription">"Um die Stimmen der Sprecher während der Transkription unterscheiden zu können, aktualisieren Sie zunächst die Offline-Sprachpakete."</string>
     <string name="foregound_content">Mi AI Text Widget funktioniert…</string>
-    <string name="foregound_tile">@string/ai_translate</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">Fr</string>
@@ -818,12 +813,10 @@ Hinweis: Aus Videos und Audioinhalten generierte Untertitel können in dieser Ve
     <string name="pref_voice_speed_title">Geschwindigkeit</string>
     <string name="pref_voice_type_female_title">Weibliche Stimme</string>
     <string name="pref_voice_type_male_title">Männliche Stimme</string>
-    <string name="preference_authorization_title">@string/privacy_policy_text</string>
     <string name="preference_category_function_title">Merkmale</string>
     <string name="preference_category_help_and_feedback_title">Leistungen und Feedback</string>
     <string name="preference_category_title_permission_authorization">Datenschutz und Berechtigungen</string>
     <string name="preference_copied">\"%1$s\" in die Zwischenablage kopiert.</string>
-    <string name="preference_feedback_title">@string/feedback_txt</string>
     <string name="preference_floating_window_background_summary">Wählen Sie eine Hintergrundfarbe für schwebende Fensteruntertitel</string>
     <string name="preference_permission_title">Berechtigungen</string>
     <string name="preference_recognition_summary">Aus dieser Sprache übersetzen</string>

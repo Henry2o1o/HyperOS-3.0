@@ -5198,7 +5198,6 @@ Kalter Ausdauermodus</string>
     <string name="power_settings_number">Prozent</string>
     <string name="power_settings_saver_title">Stromsparen</string>
     <string name="power_settings_shape">Grafisch</string>
-    <string name="power_settings_title">@string/Settings_title_power_center</string>
     <string name="power_settings_top">Obere Leiste</string>
     <string name="power_superpower_title_systemui_highpower">Verbleibende Zeit</string>
     <string name="power_superpower_title_systemui_lowpower">Ladegerät anschließen</string>

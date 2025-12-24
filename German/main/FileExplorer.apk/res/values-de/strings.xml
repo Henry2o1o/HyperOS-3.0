@@ -1074,7 +1074,6 @@ Versuchen Sie, Dateien von Ihrem Gerät auf Mi Drive zu verschieben.</string>
     <string name="set_pattern">Passwort erneuern</string>
     <string name="set_pattern_btn">Satz</string>
     <string name="set_pattern_msg">Passwort erneut festlegen. Datenschutz-Passwort funktioniert auch für Fotos, Nachrichten und Notizen.</string>
-    <string name="settings">@string/server_control_settings</string>
     <string name="sign_percent">%</string>
     <string name="size_lv1">Kleiner als %d KB</string>
     <string formatted="false" name="size_lv2">%1d KB - %2d MB</string>
