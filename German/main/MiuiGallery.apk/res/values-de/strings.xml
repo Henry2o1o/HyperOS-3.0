@@ -2143,7 +2143,7 @@ Die besten Fotos werden automatisch ausgewählt. Du kannst mehr Fotos manuell hi
     <string name="loading_image_thumbnail">Miniaturbild herunterladen…</string>
     <string name="loading_members">Mitglieder laden…</string>
     <string name="loading_suspend">Download angehalten. Wird fortgesetzt, sobald WLAN verfügbar ist.</string>
-    <string name="loading_text_format">Private Informationen aus Fotos werden entfernt (%d/%d)…</string>
+    <string name="loading_text_format" formatted="false">Private Informationen aus Fotos werden entfernt (%d/%d)…</string>
     <string name="loading_video">Video wird heruntergeladen…</string>
     <string name="loading_video_compress_lib">Videokompressions-Plugin herunterladen…</string>
     <string name="loading_video_fail_sync_without_network">Mit Netzwerk verbinden, um Metadaten herunterzuladen</string>
