@@ -1,5 +1,9 @@
 # ![logo](Xiaomi_HyperOS_3.png)
 
+https://www.schmidtisblog.de/hyperos-3-xiaomi-stellt-neues-betriebssystem-heute-vor-1782933/
+
+https://github.com/ingbrzy/Xiaomi.eu-HyperOS-3.0-XML-Compare
+
 ## ⚠️ Archivierungshinweis / Archive Notice
 
 **Dieses Repository wird nicht mehr aktiv entwickelt und wird archiviert.**
