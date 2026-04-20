@@ -1,4 +1,4 @@
-# ![logo](Xiaomi_HyperOS_3.webp)
+# ![logo](Xiaomi_HyperOS_3.png)
 
 ## ⚠️ Archivierungshinweis / Archive Notice
 
